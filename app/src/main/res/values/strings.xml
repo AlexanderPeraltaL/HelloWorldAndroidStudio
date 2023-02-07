@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldA</string>
+    <string name="titleOne">Calculadora</string>
+    <string name="textOne">Texto Uno</string>
+    <string name="textTwo">Texto Dos</string>
+    <string name="button">Calcular</string>
+</resources>
